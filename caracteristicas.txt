@@ -1,0 +1,14 @@
+Pagina web, nav bar con logo y nombre del usuario que se queda ahí y busqueda 
+carrousel y la barra de hasta abajo estática 
+con paginación 
+barra lateral colapsable
+tipografías redondeadas, paleta de color monocromática 
+background de video con poco brillo, con letras arriba con hover
+diseño minimalista, con alto contraste entre el menú y el fondo con las imágenes y la tipografía
+formas naturales y orgánicas 
+animaciones de glitch 
+con outline buttons
+
+Pantalla principal donde se muestran los más votados en el carrousel
+tiene una barra lateral colapsable con el boton en el navbar que se queda ahí 
+Se abre una ventana modal para ingresar al login 
